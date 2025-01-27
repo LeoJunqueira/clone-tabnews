@@ -32,7 +32,7 @@ function Home() {
           }}>
             Grazi, eu te amo!
             
-            Se me ama também quero ouvir tu gritar isso aí do quarto!
+            Se me ama também, quero ouvir tu gritar isso aí de onde tu está!
           </h1>
           <div style={{
             fontSize: '3rem',
